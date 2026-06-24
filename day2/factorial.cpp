@@ -1,4 +1,4 @@
-#include<bitsc++.h>
+#include<bits/stdc++.h>
 using namespace std;
 int fact(int a){
   if(a==0){
