@@ -11,5 +11,5 @@ int gcd(int a,int b){
 
 int main() {
 	// your code goes here
-    cout<<gcd(4,8);
+    cout<<gcd(8,4);
 }
