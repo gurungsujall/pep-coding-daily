@@ -3,7 +3,7 @@ using namespace std;
 
 bool arm(int a){
     int sum=0;
-    int original=153;
+    int original=a;
     while(a>0){
         int digit=a%10;
         sum=sum+pow(digit,3);
