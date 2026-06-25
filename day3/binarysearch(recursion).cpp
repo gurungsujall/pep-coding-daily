@@ -3,7 +3,6 @@ using namespace std;
 
 bool binarySearch(vector<int> &arr, int start, int end, int target)
 {
-    // Base Case
     if (start > end)
     {
         return false;
