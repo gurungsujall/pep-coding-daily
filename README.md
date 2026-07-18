@@ -10,6 +10,7 @@ My daily C++ coding practice
 | [0104-maximum-depth-of-binary-tree](https://github.com/gurungsujall/pep-coding-daily/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0222-count-complete-tree-nodes](https://github.com/gurungsujall/pep-coding-daily/tree/master/0222-count-complete-tree-nodes) |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/gurungsujall/pep-coding-daily/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
+| [0543-diameter-of-binary-tree](https://github.com/gurungsujall/pep-coding-daily/tree/master/0543-diameter-of-binary-tree) |
 | [0572-subtree-of-another-tree](https://github.com/gurungsujall/pep-coding-daily/tree/master/0572-subtree-of-another-tree) |
 | [0700-search-in-a-binary-search-tree](https://github.com/gurungsujall/pep-coding-daily/tree/master/0700-search-in-a-binary-search-tree) |
 ## Binary Search Tree
@@ -26,6 +27,7 @@ My daily C++ coding practice
 | [0104-maximum-depth-of-binary-tree](https://github.com/gurungsujall/pep-coding-daily/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0222-count-complete-tree-nodes](https://github.com/gurungsujall/pep-coding-daily/tree/master/0222-count-complete-tree-nodes) |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/gurungsujall/pep-coding-daily/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
+| [0543-diameter-of-binary-tree](https://github.com/gurungsujall/pep-coding-daily/tree/master/0543-diameter-of-binary-tree) |
 | [0572-subtree-of-another-tree](https://github.com/gurungsujall/pep-coding-daily/tree/master/0572-subtree-of-another-tree) |
 | [0700-search-in-a-binary-search-tree](https://github.com/gurungsujall/pep-coding-daily/tree/master/0700-search-in-a-binary-search-tree) |
 ## Depth-First Search
@@ -34,6 +36,7 @@ My daily C++ coding practice
 | [0098-validate-binary-search-tree](https://github.com/gurungsujall/pep-coding-daily/tree/master/0098-validate-binary-search-tree) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/gurungsujall/pep-coding-daily/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/gurungsujall/pep-coding-daily/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
+| [0543-diameter-of-binary-tree](https://github.com/gurungsujall/pep-coding-daily/tree/master/0543-diameter-of-binary-tree) |
 | [0572-subtree-of-another-tree](https://github.com/gurungsujall/pep-coding-daily/tree/master/0572-subtree-of-another-tree) |
 ## Array
 |  |
