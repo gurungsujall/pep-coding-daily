@@ -24,11 +24,8 @@ public:
         return identical(root1->left,sub->left) and identical(root1->right,sub->right);
     }
     bool isSubtree(TreeNode* root, TreeNode* subRoot) {
-        if(root==NULL and subRoot==NULL){
-            return root==subRoot;
-        }
         if(root==NULL or subRoot==NULL){
-            return false;
+            return root==subRoot;
         }
         if(identical(root,subRoot)){
             return true;
