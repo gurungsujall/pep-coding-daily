@@ -57,9 +57,14 @@ My daily C++ coding practice
 ## String Matching
 |  |
 | ------- |
+| [0020-valid-parentheses](https://github.com/gurungsujall/pep-coding-daily/tree/master/0020-valid-parentheses) |
 | [0572-subtree-of-another-tree](https://github.com/gurungsujall/pep-coding-daily/tree/master/0572-subtree-of-another-tree) |
 ## Hash Function
 |  |
 | ------- |
 | [0572-subtree-of-another-tree](https://github.com/gurungsujall/pep-coding-daily/tree/master/0572-subtree-of-another-tree) |
+## Stack
+|  |
+| ------- |
+| [0020-valid-parentheses](https://github.com/gurungsujall/pep-coding-daily/tree/master/0020-valid-parentheses) |
 <!---LeetCode Topics End-->
