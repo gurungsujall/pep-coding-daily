@@ -1,28 +1,23 @@
 class Solution {
 public:
-    bool isValid(string str) {
-        stack<char> s;
-        for(auto i:str){
-            if(i=='(' or i=='{' or i=='['){
-                s.push(i);
+    bool isValid(string s) {
+        stack<char> st;
+        for(auto i:s){
+            if(i=='(' || i=='{' || i=='['){
+                st.push(i);
             }
             else{
-                if(s.empty()){
+                if(st.empty()){
                     return false;
-                }
-                else{
-                    if( (s.top()=='(' && i==')') ||
-                        (s.top()=='{' && i=='}')||
-                        (s.top()=='[' && i==']')){
-                            s.pop();
-                        }
-                        else{
-                            return false;
-                        }
+                }else{
+                    if((st.top()=='(' and i==')') || (st.top()=='{' and i=='}') || (st.top()=='[' and i==']')){
+                        st.pop();
+                    }else{
+                        return false;
+                    }
                 }
             }
         }
-        return s.size()==0;
-        
+        return st.empty();
     }
 };
