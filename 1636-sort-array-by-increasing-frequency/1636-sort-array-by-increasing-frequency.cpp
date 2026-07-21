@@ -16,10 +16,10 @@ public:
         }
         while(!p.empty()){
             auto f=p.top();
-            p.pop();
             for(int i=0;i<f.first;i++){
                 ans.push_back(-f.second);
             }
+            p.pop();
         }
         return ans;
 
