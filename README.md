@@ -44,11 +44,13 @@ My daily C++ coding practice
 | [0053-maximum-subarray](https://github.com/gurungsujall/pep-coding-daily/tree/master/0053-maximum-subarray) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/gurungsujall/pep-coding-daily/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0496-next-greater-element-i](https://github.com/gurungsujall/pep-coding-daily/tree/master/0496-next-greater-element-i) |
+| [1636-sort-array-by-increasing-frequency](https://github.com/gurungsujall/pep-coding-daily/tree/master/1636-sort-array-by-increasing-frequency) |
 ## Hash Table
 |  |
 | ------- |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/gurungsujall/pep-coding-daily/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0496-next-greater-element-i](https://github.com/gurungsujall/pep-coding-daily/tree/master/0496-next-greater-element-i) |
+| [1636-sort-array-by-increasing-frequency](https://github.com/gurungsujall/pep-coding-daily/tree/master/1636-sort-array-by-increasing-frequency) |
 ## Breadth-First Search
 |  |
 | ------- |
@@ -83,4 +85,8 @@ My daily C++ coding practice
 |  |
 | ------- |
 | [0053-maximum-subarray](https://github.com/gurungsujall/pep-coding-daily/tree/master/0053-maximum-subarray) |
+## Sorting
+|  |
+| ------- |
+| [1636-sort-array-by-increasing-frequency](https://github.com/gurungsujall/pep-coding-daily/tree/master/1636-sort-array-by-increasing-frequency) |
 <!---LeetCode Topics End-->
