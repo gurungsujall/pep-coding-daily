@@ -7,6 +7,7 @@ My daily C++ coding practice
 |  |
 | ------- |
 | [0098-validate-binary-search-tree](https://github.com/gurungsujall/pep-coding-daily/tree/master/0098-validate-binary-search-tree) |
+| [0100-same-tree](https://github.com/gurungsujall/pep-coding-daily/tree/master/0100-same-tree) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/gurungsujall/pep-coding-daily/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0222-count-complete-tree-nodes](https://github.com/gurungsujall/pep-coding-daily/tree/master/0222-count-complete-tree-nodes) |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/gurungsujall/pep-coding-daily/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
@@ -24,6 +25,7 @@ My daily C++ coding practice
 |  |
 | ------- |
 | [0098-validate-binary-search-tree](https://github.com/gurungsujall/pep-coding-daily/tree/master/0098-validate-binary-search-tree) |
+| [0100-same-tree](https://github.com/gurungsujall/pep-coding-daily/tree/master/0100-same-tree) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/gurungsujall/pep-coding-daily/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0222-count-complete-tree-nodes](https://github.com/gurungsujall/pep-coding-daily/tree/master/0222-count-complete-tree-nodes) |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/gurungsujall/pep-coding-daily/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
@@ -34,6 +36,7 @@ My daily C++ coding practice
 |  |
 | ------- |
 | [0098-validate-binary-search-tree](https://github.com/gurungsujall/pep-coding-daily/tree/master/0098-validate-binary-search-tree) |
+| [0100-same-tree](https://github.com/gurungsujall/pep-coding-daily/tree/master/0100-same-tree) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/gurungsujall/pep-coding-daily/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/gurungsujall/pep-coding-daily/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
 | [0543-diameter-of-binary-tree](https://github.com/gurungsujall/pep-coding-daily/tree/master/0543-diameter-of-binary-tree) |
@@ -55,6 +58,7 @@ My daily C++ coding practice
 ## Breadth-First Search
 |  |
 | ------- |
+| [0100-same-tree](https://github.com/gurungsujall/pep-coding-daily/tree/master/0100-same-tree) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/gurungsujall/pep-coding-daily/tree/master/0104-maximum-depth-of-binary-tree) |
 ## Bit Manipulation
 |  |
