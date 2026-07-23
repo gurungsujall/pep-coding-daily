@@ -46,6 +46,7 @@ My daily C++ coding practice
 | ------- |
 | [0053-maximum-subarray](https://github.com/gurungsujall/pep-coding-daily/tree/master/0053-maximum-subarray) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/gurungsujall/pep-coding-daily/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
+| [0494-target-sum](https://github.com/gurungsujall/pep-coding-daily/tree/master/0494-target-sum) |
 | [0496-next-greater-element-i](https://github.com/gurungsujall/pep-coding-daily/tree/master/0496-next-greater-element-i) |
 | [1046-last-stone-weight](https://github.com/gurungsujall/pep-coding-daily/tree/master/1046-last-stone-weight) |
 | [1636-sort-array-by-increasing-frequency](https://github.com/gurungsujall/pep-coding-daily/tree/master/1636-sort-array-by-increasing-frequency) |
@@ -90,6 +91,7 @@ My daily C++ coding practice
 |  |
 | ------- |
 | [0053-maximum-subarray](https://github.com/gurungsujall/pep-coding-daily/tree/master/0053-maximum-subarray) |
+| [0494-target-sum](https://github.com/gurungsujall/pep-coding-daily/tree/master/0494-target-sum) |
 ## Sorting
 |  |
 | ------- |
@@ -98,4 +100,8 @@ My daily C++ coding practice
 |  |
 | ------- |
 | [1046-last-stone-weight](https://github.com/gurungsujall/pep-coding-daily/tree/master/1046-last-stone-weight) |
+## Backtracking
+|  |
+| ------- |
+| [0494-target-sum](https://github.com/gurungsujall/pep-coding-daily/tree/master/0494-target-sum) |
 <!---LeetCode Topics End-->
