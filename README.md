@@ -18,6 +18,7 @@ My daily C++ coding practice
 ## Binary Search Tree
 |  |
 | ------- |
+| [0074-search-a-2d-matrix](https://github.com/gurungsujall/pep-coding-daily/tree/master/0074-search-a-2d-matrix) |
 | [0098-validate-binary-search-tree](https://github.com/gurungsujall/pep-coding-daily/tree/master/0098-validate-binary-search-tree) |
 | [0222-count-complete-tree-nodes](https://github.com/gurungsujall/pep-coding-daily/tree/master/0222-count-complete-tree-nodes) |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/gurungsujall/pep-coding-daily/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
@@ -48,6 +49,7 @@ My daily C++ coding practice
 |  |
 | ------- |
 | [0053-maximum-subarray](https://github.com/gurungsujall/pep-coding-daily/tree/master/0053-maximum-subarray) |
+| [0074-search-a-2d-matrix](https://github.com/gurungsujall/pep-coding-daily/tree/master/0074-search-a-2d-matrix) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/gurungsujall/pep-coding-daily/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0494-target-sum](https://github.com/gurungsujall/pep-coding-daily/tree/master/0494-target-sum) |
 | [0496-next-greater-element-i](https://github.com/gurungsujall/pep-coding-daily/tree/master/0496-next-greater-element-i) |
@@ -108,4 +110,8 @@ My daily C++ coding practice
 |  |
 | ------- |
 | [0494-target-sum](https://github.com/gurungsujall/pep-coding-daily/tree/master/0494-target-sum) |
+## Matrix
+|  |
+| ------- |
+| [0074-search-a-2d-matrix](https://github.com/gurungsujall/pep-coding-daily/tree/master/0074-search-a-2d-matrix) |
 <!---LeetCode Topics End-->
