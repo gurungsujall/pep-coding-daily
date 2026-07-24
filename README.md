@@ -56,6 +56,7 @@ My daily C++ coding practice
 | [0200-number-of-islands](https://github.com/gurungsujall/pep-coding-daily/tree/master/0200-number-of-islands) |
 | [0204-count-primes](https://github.com/gurungsujall/pep-coding-daily/tree/master/0204-count-primes) |
 | [0268-missing-number](https://github.com/gurungsujall/pep-coding-daily/tree/master/0268-missing-number) |
+| [0442-find-all-duplicates-in-an-array](https://github.com/gurungsujall/pep-coding-daily/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/gurungsujall/pep-coding-daily/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0494-target-sum](https://github.com/gurungsujall/pep-coding-daily/tree/master/0494-target-sum) |
 | [0496-next-greater-element-i](https://github.com/gurungsujall/pep-coding-daily/tree/master/0496-next-greater-element-i) |
@@ -67,6 +68,7 @@ My daily C++ coding practice
 |  |
 | ------- |
 | [0268-missing-number](https://github.com/gurungsujall/pep-coding-daily/tree/master/0268-missing-number) |
+| [0442-find-all-duplicates-in-an-array](https://github.com/gurungsujall/pep-coding-daily/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/gurungsujall/pep-coding-daily/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0496-next-greater-element-i](https://github.com/gurungsujall/pep-coding-daily/tree/master/0496-next-greater-element-i) |
 | [1636-sort-array-by-increasing-frequency](https://github.com/gurungsujall/pep-coding-daily/tree/master/1636-sort-array-by-increasing-frequency) |
@@ -114,6 +116,7 @@ My daily C++ coding practice
 |  |
 | ------- |
 | [0268-missing-number](https://github.com/gurungsujall/pep-coding-daily/tree/master/0268-missing-number) |
+| [0442-find-all-duplicates-in-an-array](https://github.com/gurungsujall/pep-coding-daily/tree/master/0442-find-all-duplicates-in-an-array) |
 | [1636-sort-array-by-increasing-frequency](https://github.com/gurungsujall/pep-coding-daily/tree/master/1636-sort-array-by-increasing-frequency) |
 ## Heap (Priority Queue)
 |  |
