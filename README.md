@@ -46,6 +46,7 @@ My daily C++ coding practice
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/gurungsujall/pep-coding-daily/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
 | [0543-diameter-of-binary-tree](https://github.com/gurungsujall/pep-coding-daily/tree/master/0543-diameter-of-binary-tree) |
 | [0572-subtree-of-another-tree](https://github.com/gurungsujall/pep-coding-daily/tree/master/0572-subtree-of-another-tree) |
+| [0695-max-area-of-island](https://github.com/gurungsujall/pep-coding-daily/tree/master/0695-max-area-of-island) |
 ## Array
 |  |
 | ------- |
@@ -56,6 +57,7 @@ My daily C++ coding practice
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/gurungsujall/pep-coding-daily/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0494-target-sum](https://github.com/gurungsujall/pep-coding-daily/tree/master/0494-target-sum) |
 | [0496-next-greater-element-i](https://github.com/gurungsujall/pep-coding-daily/tree/master/0496-next-greater-element-i) |
+| [0695-max-area-of-island](https://github.com/gurungsujall/pep-coding-daily/tree/master/0695-max-area-of-island) |
 | [0867-transpose-matrix](https://github.com/gurungsujall/pep-coding-daily/tree/master/0867-transpose-matrix) |
 | [1046-last-stone-weight](https://github.com/gurungsujall/pep-coding-daily/tree/master/1046-last-stone-weight) |
 | [1636-sort-array-by-increasing-frequency](https://github.com/gurungsujall/pep-coding-daily/tree/master/1636-sort-array-by-increasing-frequency) |
@@ -72,6 +74,7 @@ My daily C++ coding practice
 | [0101-symmetric-tree](https://github.com/gurungsujall/pep-coding-daily/tree/master/0101-symmetric-tree) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/gurungsujall/pep-coding-daily/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0200-number-of-islands](https://github.com/gurungsujall/pep-coding-daily/tree/master/0200-number-of-islands) |
+| [0695-max-area-of-island](https://github.com/gurungsujall/pep-coding-daily/tree/master/0695-max-area-of-island) |
 ## Bit Manipulation
 |  |
 | ------- |
@@ -120,6 +123,7 @@ My daily C++ coding practice
 | ------- |
 | [0074-search-a-2d-matrix](https://github.com/gurungsujall/pep-coding-daily/tree/master/0074-search-a-2d-matrix) |
 | [0200-number-of-islands](https://github.com/gurungsujall/pep-coding-daily/tree/master/0200-number-of-islands) |
+| [0695-max-area-of-island](https://github.com/gurungsujall/pep-coding-daily/tree/master/0695-max-area-of-island) |
 | [0867-transpose-matrix](https://github.com/gurungsujall/pep-coding-daily/tree/master/0867-transpose-matrix) |
 ## Simulation
 |  |
@@ -141,4 +145,5 @@ My daily C++ coding practice
 |  |
 | ------- |
 | [0200-number-of-islands](https://github.com/gurungsujall/pep-coding-daily/tree/master/0200-number-of-islands) |
+| [0695-max-area-of-island](https://github.com/gurungsujall/pep-coding-daily/tree/master/0695-max-area-of-island) |
 <!---LeetCode Topics End-->
