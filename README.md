@@ -50,6 +50,7 @@ My daily C++ coding practice
 | ------- |
 | [0053-maximum-subarray](https://github.com/gurungsujall/pep-coding-daily/tree/master/0053-maximum-subarray) |
 | [0074-search-a-2d-matrix](https://github.com/gurungsujall/pep-coding-daily/tree/master/0074-search-a-2d-matrix) |
+| [0204-count-primes](https://github.com/gurungsujall/pep-coding-daily/tree/master/0204-count-primes) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/gurungsujall/pep-coding-daily/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0494-target-sum](https://github.com/gurungsujall/pep-coding-daily/tree/master/0494-target-sum) |
 | [0496-next-greater-element-i](https://github.com/gurungsujall/pep-coding-daily/tree/master/0496-next-greater-element-i) |
@@ -120,4 +121,16 @@ My daily C++ coding practice
 |  |
 | ------- |
 | [0867-transpose-matrix](https://github.com/gurungsujall/pep-coding-daily/tree/master/0867-transpose-matrix) |
+## Math
+|  |
+| ------- |
+| [0204-count-primes](https://github.com/gurungsujall/pep-coding-daily/tree/master/0204-count-primes) |
+## Enumeration
+|  |
+| ------- |
+| [0204-count-primes](https://github.com/gurungsujall/pep-coding-daily/tree/master/0204-count-primes) |
+## Number Theory
+|  |
+| ------- |
+| [0204-count-primes](https://github.com/gurungsujall/pep-coding-daily/tree/master/0204-count-primes) |
 <!---LeetCode Topics End-->
