@@ -22,6 +22,7 @@ My daily C++ coding practice
 | [0098-validate-binary-search-tree](https://github.com/gurungsujall/pep-coding-daily/tree/master/0098-validate-binary-search-tree) |
 | [0222-count-complete-tree-nodes](https://github.com/gurungsujall/pep-coding-daily/tree/master/0222-count-complete-tree-nodes) |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/gurungsujall/pep-coding-daily/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
+| [0268-missing-number](https://github.com/gurungsujall/pep-coding-daily/tree/master/0268-missing-number) |
 | [0700-search-in-a-binary-search-tree](https://github.com/gurungsujall/pep-coding-daily/tree/master/0700-search-in-a-binary-search-tree) |
 ## Binary Tree
 |  |
@@ -54,6 +55,7 @@ My daily C++ coding practice
 | [0074-search-a-2d-matrix](https://github.com/gurungsujall/pep-coding-daily/tree/master/0074-search-a-2d-matrix) |
 | [0200-number-of-islands](https://github.com/gurungsujall/pep-coding-daily/tree/master/0200-number-of-islands) |
 | [0204-count-primes](https://github.com/gurungsujall/pep-coding-daily/tree/master/0204-count-primes) |
+| [0268-missing-number](https://github.com/gurungsujall/pep-coding-daily/tree/master/0268-missing-number) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/gurungsujall/pep-coding-daily/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0494-target-sum](https://github.com/gurungsujall/pep-coding-daily/tree/master/0494-target-sum) |
 | [0496-next-greater-element-i](https://github.com/gurungsujall/pep-coding-daily/tree/master/0496-next-greater-element-i) |
@@ -64,6 +66,7 @@ My daily C++ coding practice
 ## Hash Table
 |  |
 | ------- |
+| [0268-missing-number](https://github.com/gurungsujall/pep-coding-daily/tree/master/0268-missing-number) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/gurungsujall/pep-coding-daily/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0496-next-greater-element-i](https://github.com/gurungsujall/pep-coding-daily/tree/master/0496-next-greater-element-i) |
 | [1636-sort-array-by-increasing-frequency](https://github.com/gurungsujall/pep-coding-daily/tree/master/1636-sort-array-by-increasing-frequency) |
@@ -79,6 +82,7 @@ My daily C++ coding practice
 |  |
 | ------- |
 | [0222-count-complete-tree-nodes](https://github.com/gurungsujall/pep-coding-daily/tree/master/0222-count-complete-tree-nodes) |
+| [0268-missing-number](https://github.com/gurungsujall/pep-coding-daily/tree/master/0268-missing-number) |
 ## String Matching
 |  |
 | ------- |
@@ -109,6 +113,7 @@ My daily C++ coding practice
 ## Sorting
 |  |
 | ------- |
+| [0268-missing-number](https://github.com/gurungsujall/pep-coding-daily/tree/master/0268-missing-number) |
 | [1636-sort-array-by-increasing-frequency](https://github.com/gurungsujall/pep-coding-daily/tree/master/1636-sort-array-by-increasing-frequency) |
 ## Heap (Priority Queue)
 |  |
@@ -133,6 +138,7 @@ My daily C++ coding practice
 |  |
 | ------- |
 | [0204-count-primes](https://github.com/gurungsujall/pep-coding-daily/tree/master/0204-count-primes) |
+| [0268-missing-number](https://github.com/gurungsujall/pep-coding-daily/tree/master/0268-missing-number) |
 ## Enumeration
 |  |
 | ------- |
