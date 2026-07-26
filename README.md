@@ -90,6 +90,7 @@ My daily C++ coding practice
 | ------- |
 | [0020-valid-parentheses](https://github.com/gurungsujall/pep-coding-daily/tree/master/0020-valid-parentheses) |
 | [0572-subtree-of-another-tree](https://github.com/gurungsujall/pep-coding-daily/tree/master/0572-subtree-of-another-tree) |
+| [2390-removing-stars-from-a-string](https://github.com/gurungsujall/pep-coding-daily/tree/master/2390-removing-stars-from-a-string) |
 ## Hash Function
 |  |
 | ------- |
@@ -99,6 +100,7 @@ My daily C++ coding practice
 | ------- |
 | [0020-valid-parentheses](https://github.com/gurungsujall/pep-coding-daily/tree/master/0020-valid-parentheses) |
 | [0496-next-greater-element-i](https://github.com/gurungsujall/pep-coding-daily/tree/master/0496-next-greater-element-i) |
+| [2390-removing-stars-from-a-string](https://github.com/gurungsujall/pep-coding-daily/tree/master/2390-removing-stars-from-a-string) |
 ## Monotonic Stack
 |  |
 | ------- |
@@ -138,6 +140,7 @@ My daily C++ coding practice
 |  |
 | ------- |
 | [0867-transpose-matrix](https://github.com/gurungsujall/pep-coding-daily/tree/master/0867-transpose-matrix) |
+| [2390-removing-stars-from-a-string](https://github.com/gurungsujall/pep-coding-daily/tree/master/2390-removing-stars-from-a-string) |
 ## Math
 |  |
 | ------- |
