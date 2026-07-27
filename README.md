@@ -60,6 +60,7 @@ My daily C++ coding practice
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/gurungsujall/pep-coding-daily/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0494-target-sum](https://github.com/gurungsujall/pep-coding-daily/tree/master/0494-target-sum) |
 | [0496-next-greater-element-i](https://github.com/gurungsujall/pep-coding-daily/tree/master/0496-next-greater-element-i) |
+| [0628-maximum-product-of-three-numbers](https://github.com/gurungsujall/pep-coding-daily/tree/master/0628-maximum-product-of-three-numbers) |
 | [0695-max-area-of-island](https://github.com/gurungsujall/pep-coding-daily/tree/master/0695-max-area-of-island) |
 | [0867-transpose-matrix](https://github.com/gurungsujall/pep-coding-daily/tree/master/0867-transpose-matrix) |
 | [1046-last-stone-weight](https://github.com/gurungsujall/pep-coding-daily/tree/master/1046-last-stone-weight) |
@@ -119,6 +120,7 @@ My daily C++ coding practice
 | ------- |
 | [0268-missing-number](https://github.com/gurungsujall/pep-coding-daily/tree/master/0268-missing-number) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/gurungsujall/pep-coding-daily/tree/master/0442-find-all-duplicates-in-an-array) |
+| [0628-maximum-product-of-three-numbers](https://github.com/gurungsujall/pep-coding-daily/tree/master/0628-maximum-product-of-three-numbers) |
 | [1636-sort-array-by-increasing-frequency](https://github.com/gurungsujall/pep-coding-daily/tree/master/1636-sort-array-by-increasing-frequency) |
 | [3536-maximum-product-of-two-digits](https://github.com/gurungsujall/pep-coding-daily/tree/master/3536-maximum-product-of-two-digits) |
 ## Heap (Priority Queue)
@@ -146,6 +148,7 @@ My daily C++ coding practice
 | ------- |
 | [0204-count-primes](https://github.com/gurungsujall/pep-coding-daily/tree/master/0204-count-primes) |
 | [0268-missing-number](https://github.com/gurungsujall/pep-coding-daily/tree/master/0268-missing-number) |
+| [0628-maximum-product-of-three-numbers](https://github.com/gurungsujall/pep-coding-daily/tree/master/0628-maximum-product-of-three-numbers) |
 | [3536-maximum-product-of-two-digits](https://github.com/gurungsujall/pep-coding-daily/tree/master/3536-maximum-product-of-two-digits) |
 ## Enumeration
 |  |
