@@ -51,6 +51,7 @@ My daily C++ coding practice
 ## Array
 |  |
 | ------- |
+| [0026-remove-duplicates-from-sorted-array](https://github.com/gurungsujall/pep-coding-daily/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0053-maximum-subarray](https://github.com/gurungsujall/pep-coding-daily/tree/master/0053-maximum-subarray) |
 | [0074-search-a-2d-matrix](https://github.com/gurungsujall/pep-coding-daily/tree/master/0074-search-a-2d-matrix) |
 | [0200-number-of-islands](https://github.com/gurungsujall/pep-coding-daily/tree/master/0200-number-of-islands) |
@@ -166,4 +167,8 @@ My daily C++ coding practice
 | ------- |
 | [0200-number-of-islands](https://github.com/gurungsujall/pep-coding-daily/tree/master/0200-number-of-islands) |
 | [0695-max-area-of-island](https://github.com/gurungsujall/pep-coding-daily/tree/master/0695-max-area-of-island) |
+## Two Pointers
+|  |
+| ------- |
+| [0026-remove-duplicates-from-sorted-array](https://github.com/gurungsujall/pep-coding-daily/tree/master/0026-remove-duplicates-from-sorted-array) |
 <!---LeetCode Topics End-->
