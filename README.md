@@ -55,6 +55,7 @@ My daily C++ coding practice
 | [0026-remove-duplicates-from-sorted-array](https://github.com/gurungsujall/pep-coding-daily/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0053-maximum-subarray](https://github.com/gurungsujall/pep-coding-daily/tree/master/0053-maximum-subarray) |
 | [0074-search-a-2d-matrix](https://github.com/gurungsujall/pep-coding-daily/tree/master/0074-search-a-2d-matrix) |
+| [0075-sort-colors](https://github.com/gurungsujall/pep-coding-daily/tree/master/0075-sort-colors) |
 | [0200-number-of-islands](https://github.com/gurungsujall/pep-coding-daily/tree/master/0200-number-of-islands) |
 | [0204-count-primes](https://github.com/gurungsujall/pep-coding-daily/tree/master/0204-count-primes) |
 | [0268-missing-number](https://github.com/gurungsujall/pep-coding-daily/tree/master/0268-missing-number) |
@@ -123,6 +124,7 @@ My daily C++ coding practice
 ## Sorting
 |  |
 | ------- |
+| [0075-sort-colors](https://github.com/gurungsujall/pep-coding-daily/tree/master/0075-sort-colors) |
 | [0242-valid-anagram](https://github.com/gurungsujall/pep-coding-daily/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/gurungsujall/pep-coding-daily/tree/master/0268-missing-number) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/gurungsujall/pep-coding-daily/tree/master/0442-find-all-duplicates-in-an-array) |
@@ -173,6 +175,7 @@ My daily C++ coding practice
 |  |
 | ------- |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/gurungsujall/pep-coding-daily/tree/master/0026-remove-duplicates-from-sorted-array) |
+| [0075-sort-colors](https://github.com/gurungsujall/pep-coding-daily/tree/master/0075-sort-colors) |
 ## Graph Theory
 |  |
 | ------- |
