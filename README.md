@@ -67,6 +67,7 @@ My daily C++ coding practice
 | [0695-max-area-of-island](https://github.com/gurungsujall/pep-coding-daily/tree/master/0695-max-area-of-island) |
 | [0867-transpose-matrix](https://github.com/gurungsujall/pep-coding-daily/tree/master/0867-transpose-matrix) |
 | [1046-last-stone-weight](https://github.com/gurungsujall/pep-coding-daily/tree/master/1046-last-stone-weight) |
+| [1394-find-lucky-integer-in-an-array](https://github.com/gurungsujall/pep-coding-daily/tree/master/1394-find-lucky-integer-in-an-array) |
 | [1636-sort-array-by-increasing-frequency](https://github.com/gurungsujall/pep-coding-daily/tree/master/1636-sort-array-by-increasing-frequency) |
 | [1913-maximum-product-difference-between-two-pairs](https://github.com/gurungsujall/pep-coding-daily/tree/master/1913-maximum-product-difference-between-two-pairs) |
 ## Hash Table
@@ -77,6 +78,7 @@ My daily C++ coding practice
 | [0442-find-all-duplicates-in-an-array](https://github.com/gurungsujall/pep-coding-daily/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/gurungsujall/pep-coding-daily/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0496-next-greater-element-i](https://github.com/gurungsujall/pep-coding-daily/tree/master/0496-next-greater-element-i) |
+| [1394-find-lucky-integer-in-an-array](https://github.com/gurungsujall/pep-coding-daily/tree/master/1394-find-lucky-integer-in-an-array) |
 | [1636-sort-array-by-increasing-frequency](https://github.com/gurungsujall/pep-coding-daily/tree/master/1636-sort-array-by-increasing-frequency) |
 ## Breadth-First Search
 |  |
@@ -186,4 +188,8 @@ My daily C++ coding practice
 |  |
 | ------- |
 | [0207-course-schedule](https://github.com/gurungsujall/pep-coding-daily/tree/master/0207-course-schedule) |
+## Counting
+|  |
+| ------- |
+| [1394-find-lucky-integer-in-an-array](https://github.com/gurungsujall/pep-coding-daily/tree/master/1394-find-lucky-integer-in-an-array) |
 <!---LeetCode Topics End-->
