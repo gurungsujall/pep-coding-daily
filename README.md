@@ -68,6 +68,7 @@ My daily C++ coding practice
 | [0867-transpose-matrix](https://github.com/gurungsujall/pep-coding-daily/tree/master/0867-transpose-matrix) |
 | [1046-last-stone-weight](https://github.com/gurungsujall/pep-coding-daily/tree/master/1046-last-stone-weight) |
 | [1636-sort-array-by-increasing-frequency](https://github.com/gurungsujall/pep-coding-daily/tree/master/1636-sort-array-by-increasing-frequency) |
+| [1913-maximum-product-difference-between-two-pairs](https://github.com/gurungsujall/pep-coding-daily/tree/master/1913-maximum-product-difference-between-two-pairs) |
 ## Hash Table
 |  |
 | ------- |
@@ -130,6 +131,7 @@ My daily C++ coding practice
 | [0442-find-all-duplicates-in-an-array](https://github.com/gurungsujall/pep-coding-daily/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0628-maximum-product-of-three-numbers](https://github.com/gurungsujall/pep-coding-daily/tree/master/0628-maximum-product-of-three-numbers) |
 | [1636-sort-array-by-increasing-frequency](https://github.com/gurungsujall/pep-coding-daily/tree/master/1636-sort-array-by-increasing-frequency) |
+| [1913-maximum-product-difference-between-two-pairs](https://github.com/gurungsujall/pep-coding-daily/tree/master/1913-maximum-product-difference-between-two-pairs) |
 | [3536-maximum-product-of-two-digits](https://github.com/gurungsujall/pep-coding-daily/tree/master/3536-maximum-product-of-two-digits) |
 ## Heap (Priority Queue)
 |  |
