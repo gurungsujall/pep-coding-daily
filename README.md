@@ -103,6 +103,7 @@ My daily C++ coding practice
 | [0242-valid-anagram](https://github.com/gurungsujall/pep-coding-daily/tree/master/0242-valid-anagram) |
 | [0572-subtree-of-another-tree](https://github.com/gurungsujall/pep-coding-daily/tree/master/0572-subtree-of-another-tree) |
 | [2390-removing-stars-from-a-string](https://github.com/gurungsujall/pep-coding-daily/tree/master/2390-removing-stars-from-a-string) |
+| [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/gurungsujall/pep-coding-daily/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 ## Hash Function
 |  |
 | ------- |
@@ -163,6 +164,7 @@ My daily C++ coding practice
 | [0204-count-primes](https://github.com/gurungsujall/pep-coding-daily/tree/master/0204-count-primes) |
 | [0268-missing-number](https://github.com/gurungsujall/pep-coding-daily/tree/master/0268-missing-number) |
 | [0628-maximum-product-of-three-numbers](https://github.com/gurungsujall/pep-coding-daily/tree/master/0628-maximum-product-of-three-numbers) |
+| [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/gurungsujall/pep-coding-daily/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3536-maximum-product-of-two-digits](https://github.com/gurungsujall/pep-coding-daily/tree/master/3536-maximum-product-of-two-digits) |
 ## Enumeration
 |  |
@@ -194,4 +196,8 @@ My daily C++ coding practice
 |  |
 | ------- |
 | [1394-find-lucky-integer-in-an-array](https://github.com/gurungsujall/pep-coding-daily/tree/master/1394-find-lucky-integer-in-an-array) |
+## Greedy
+|  |
+| ------- |
+| [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/gurungsujall/pep-coding-daily/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 <!---LeetCode Topics End-->
