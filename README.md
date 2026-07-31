@@ -74,6 +74,7 @@ My daily C++ coding practice
 | [1394-find-lucky-integer-in-an-array](https://github.com/gurungsujall/pep-coding-daily/tree/master/1394-find-lucky-integer-in-an-array) |
 | [1636-sort-array-by-increasing-frequency](https://github.com/gurungsujall/pep-coding-daily/tree/master/1636-sort-array-by-increasing-frequency) |
 | [1913-maximum-product-difference-between-two-pairs](https://github.com/gurungsujall/pep-coding-daily/tree/master/1913-maximum-product-difference-between-two-pairs) |
+| [1979-find-greatest-common-divisor-of-array](https://github.com/gurungsujall/pep-coding-daily/tree/master/1979-find-greatest-common-divisor-of-array) |
 ## Hash Table
 |  |
 | ------- |
@@ -170,6 +171,7 @@ My daily C++ coding practice
 | [0204-count-primes](https://github.com/gurungsujall/pep-coding-daily/tree/master/0204-count-primes) |
 | [0268-missing-number](https://github.com/gurungsujall/pep-coding-daily/tree/master/0268-missing-number) |
 | [0628-maximum-product-of-three-numbers](https://github.com/gurungsujall/pep-coding-daily/tree/master/0628-maximum-product-of-three-numbers) |
+| [1979-find-greatest-common-divisor-of-array](https://github.com/gurungsujall/pep-coding-daily/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/gurungsujall/pep-coding-daily/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3536-maximum-product-of-two-digits](https://github.com/gurungsujall/pep-coding-daily/tree/master/3536-maximum-product-of-two-digits) |
 ## Enumeration
@@ -180,6 +182,7 @@ My daily C++ coding practice
 |  |
 | ------- |
 | [0204-count-primes](https://github.com/gurungsujall/pep-coding-daily/tree/master/0204-count-primes) |
+| [1979-find-greatest-common-divisor-of-array](https://github.com/gurungsujall/pep-coding-daily/tree/master/1979-find-greatest-common-divisor-of-array) |
 ## Union-Find
 |  |
 | ------- |
