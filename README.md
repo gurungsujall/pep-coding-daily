@@ -54,6 +54,7 @@ My daily C++ coding practice
 |  |
 | ------- |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/gurungsujall/pep-coding-daily/tree/master/0026-remove-duplicates-from-sorted-array) |
+| [0049-group-anagrams](https://github.com/gurungsujall/pep-coding-daily/tree/master/0049-group-anagrams) |
 | [0053-maximum-subarray](https://github.com/gurungsujall/pep-coding-daily/tree/master/0053-maximum-subarray) |
 | [0074-search-a-2d-matrix](https://github.com/gurungsujall/pep-coding-daily/tree/master/0074-search-a-2d-matrix) |
 | [0075-sort-colors](https://github.com/gurungsujall/pep-coding-daily/tree/master/0075-sort-colors) |
@@ -76,6 +77,7 @@ My daily C++ coding practice
 ## Hash Table
 |  |
 | ------- |
+| [0049-group-anagrams](https://github.com/gurungsujall/pep-coding-daily/tree/master/0049-group-anagrams) |
 | [0242-valid-anagram](https://github.com/gurungsujall/pep-coding-daily/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/gurungsujall/pep-coding-daily/tree/master/0268-missing-number) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/gurungsujall/pep-coding-daily/tree/master/0442-find-all-duplicates-in-an-array) |
@@ -102,6 +104,7 @@ My daily C++ coding practice
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/gurungsujall/pep-coding-daily/tree/master/0020-valid-parentheses) |
+| [0049-group-anagrams](https://github.com/gurungsujall/pep-coding-daily/tree/master/0049-group-anagrams) |
 | [0242-valid-anagram](https://github.com/gurungsujall/pep-coding-daily/tree/master/0242-valid-anagram) |
 | [0572-subtree-of-another-tree](https://github.com/gurungsujall/pep-coding-daily/tree/master/0572-subtree-of-another-tree) |
 | [2390-removing-stars-from-a-string](https://github.com/gurungsujall/pep-coding-daily/tree/master/2390-removing-stars-from-a-string) |
@@ -132,6 +135,7 @@ My daily C++ coding practice
 ## Sorting
 |  |
 | ------- |
+| [0049-group-anagrams](https://github.com/gurungsujall/pep-coding-daily/tree/master/0049-group-anagrams) |
 | [0075-sort-colors](https://github.com/gurungsujall/pep-coding-daily/tree/master/0075-sort-colors) |
 | [0242-valid-anagram](https://github.com/gurungsujall/pep-coding-daily/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/gurungsujall/pep-coding-daily/tree/master/0268-missing-number) |
