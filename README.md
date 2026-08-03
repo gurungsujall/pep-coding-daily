@@ -213,4 +213,8 @@ My daily C++ coding practice
 |  |
 | ------- |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/gurungsujall/pep-coding-daily/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
+## Database
+|  |
+| ------- |
+| [0176-second-highest-salary](https://github.com/gurungsujall/pep-coding-daily/tree/master/0176-second-highest-salary) |
 <!---LeetCode Topics End-->
