@@ -76,6 +76,7 @@ My daily C++ coding practice
 | [1636-sort-array-by-increasing-frequency](https://github.com/gurungsujall/pep-coding-daily/tree/master/1636-sort-array-by-increasing-frequency) |
 | [1913-maximum-product-difference-between-two-pairs](https://github.com/gurungsujall/pep-coding-daily/tree/master/1913-maximum-product-difference-between-two-pairs) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/gurungsujall/pep-coding-daily/tree/master/1979-find-greatest-common-divisor-of-array) |
+| [3731-find-missing-elements](https://github.com/gurungsujall/pep-coding-daily/tree/master/3731-find-missing-elements) |
 ## Hash Table
 |  |
 | ------- |
@@ -87,6 +88,7 @@ My daily C++ coding practice
 | [0496-next-greater-element-i](https://github.com/gurungsujall/pep-coding-daily/tree/master/0496-next-greater-element-i) |
 | [1394-find-lucky-integer-in-an-array](https://github.com/gurungsujall/pep-coding-daily/tree/master/1394-find-lucky-integer-in-an-array) |
 | [1636-sort-array-by-increasing-frequency](https://github.com/gurungsujall/pep-coding-daily/tree/master/1636-sort-array-by-increasing-frequency) |
+| [3731-find-missing-elements](https://github.com/gurungsujall/pep-coding-daily/tree/master/3731-find-missing-elements) |
 ## Breadth-First Search
 |  |
 | ------- |
@@ -147,6 +149,7 @@ My daily C++ coding practice
 | [1636-sort-array-by-increasing-frequency](https://github.com/gurungsujall/pep-coding-daily/tree/master/1636-sort-array-by-increasing-frequency) |
 | [1913-maximum-product-difference-between-two-pairs](https://github.com/gurungsujall/pep-coding-daily/tree/master/1913-maximum-product-difference-between-two-pairs) |
 | [3536-maximum-product-of-two-digits](https://github.com/gurungsujall/pep-coding-daily/tree/master/3536-maximum-product-of-two-digits) |
+| [3731-find-missing-elements](https://github.com/gurungsujall/pep-coding-daily/tree/master/3731-find-missing-elements) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
