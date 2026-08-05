@@ -69,6 +69,7 @@ My daily C++ coding practice
 | [0204-count-primes](https://github.com/gurungsujall/pep-coding-daily/tree/master/0204-count-primes) |
 | [0229-majority-element-ii](https://github.com/gurungsujall/pep-coding-daily/tree/master/0229-majority-element-ii) |
 | [0268-missing-number](https://github.com/gurungsujall/pep-coding-daily/tree/master/0268-missing-number) |
+| [0414-third-maximum-number](https://github.com/gurungsujall/pep-coding-daily/tree/master/0414-third-maximum-number) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/gurungsujall/pep-coding-daily/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/gurungsujall/pep-coding-daily/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0494-target-sum](https://github.com/gurungsujall/pep-coding-daily/tree/master/0494-target-sum) |
@@ -154,6 +155,7 @@ My daily C++ coding practice
 | [0229-majority-element-ii](https://github.com/gurungsujall/pep-coding-daily/tree/master/0229-majority-element-ii) |
 | [0242-valid-anagram](https://github.com/gurungsujall/pep-coding-daily/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/gurungsujall/pep-coding-daily/tree/master/0268-missing-number) |
+| [0414-third-maximum-number](https://github.com/gurungsujall/pep-coding-daily/tree/master/0414-third-maximum-number) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/gurungsujall/pep-coding-daily/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0628-maximum-product-of-three-numbers](https://github.com/gurungsujall/pep-coding-daily/tree/master/0628-maximum-product-of-three-numbers) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/gurungsujall/pep-coding-daily/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
