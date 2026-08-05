@@ -67,6 +67,7 @@ My daily C++ coding practice
 | [0179-largest-number](https://github.com/gurungsujall/pep-coding-daily/tree/master/0179-largest-number) |
 | [0200-number-of-islands](https://github.com/gurungsujall/pep-coding-daily/tree/master/0200-number-of-islands) |
 | [0204-count-primes](https://github.com/gurungsujall/pep-coding-daily/tree/master/0204-count-primes) |
+| [0229-majority-element-ii](https://github.com/gurungsujall/pep-coding-daily/tree/master/0229-majority-element-ii) |
 | [0268-missing-number](https://github.com/gurungsujall/pep-coding-daily/tree/master/0268-missing-number) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/gurungsujall/pep-coding-daily/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/gurungsujall/pep-coding-daily/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
@@ -86,6 +87,7 @@ My daily C++ coding practice
 |  |
 | ------- |
 | [0049-group-anagrams](https://github.com/gurungsujall/pep-coding-daily/tree/master/0049-group-anagrams) |
+| [0229-majority-element-ii](https://github.com/gurungsujall/pep-coding-daily/tree/master/0229-majority-element-ii) |
 | [0242-valid-anagram](https://github.com/gurungsujall/pep-coding-daily/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/gurungsujall/pep-coding-daily/tree/master/0268-missing-number) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/gurungsujall/pep-coding-daily/tree/master/0442-find-all-duplicates-in-an-array) |
@@ -149,6 +151,7 @@ My daily C++ coding practice
 | [0049-group-anagrams](https://github.com/gurungsujall/pep-coding-daily/tree/master/0049-group-anagrams) |
 | [0075-sort-colors](https://github.com/gurungsujall/pep-coding-daily/tree/master/0075-sort-colors) |
 | [0179-largest-number](https://github.com/gurungsujall/pep-coding-daily/tree/master/0179-largest-number) |
+| [0229-majority-element-ii](https://github.com/gurungsujall/pep-coding-daily/tree/master/0229-majority-element-ii) |
 | [0242-valid-anagram](https://github.com/gurungsujall/pep-coding-daily/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/gurungsujall/pep-coding-daily/tree/master/0268-missing-number) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/gurungsujall/pep-coding-daily/tree/master/0442-find-all-duplicates-in-an-array) |
@@ -219,6 +222,7 @@ My daily C++ coding practice
 ## Counting
 |  |
 | ------- |
+| [0229-majority-element-ii](https://github.com/gurungsujall/pep-coding-daily/tree/master/0229-majority-element-ii) |
 | [1394-find-lucky-integer-in-an-array](https://github.com/gurungsujall/pep-coding-daily/tree/master/1394-find-lucky-integer-in-an-array) |
 ## Greedy
 |  |
@@ -229,4 +233,8 @@ My daily C++ coding practice
 |  |
 | ------- |
 | [0176-second-highest-salary](https://github.com/gurungsujall/pep-coding-daily/tree/master/0176-second-highest-salary) |
+## Boyer–Moore Majority Vote Algorithm
+|  |
+| ------- |
+| [0229-majority-element-ii](https://github.com/gurungsujall/pep-coding-daily/tree/master/0229-majority-element-ii) |
 <!---LeetCode Topics End-->
