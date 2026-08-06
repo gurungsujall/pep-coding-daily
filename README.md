@@ -122,6 +122,7 @@ My daily C++ coding practice
 | [0049-group-anagrams](https://github.com/gurungsujall/pep-coding-daily/tree/master/0049-group-anagrams) |
 | [0179-largest-number](https://github.com/gurungsujall/pep-coding-daily/tree/master/0179-largest-number) |
 | [0242-valid-anagram](https://github.com/gurungsujall/pep-coding-daily/tree/master/0242-valid-anagram) |
+| [0516-longest-palindromic-subsequence](https://github.com/gurungsujall/pep-coding-daily/tree/master/0516-longest-palindromic-subsequence) |
 | [0572-subtree-of-another-tree](https://github.com/gurungsujall/pep-coding-daily/tree/master/0572-subtree-of-another-tree) |
 | [1143-longest-common-subsequence](https://github.com/gurungsujall/pep-coding-daily/tree/master/1143-longest-common-subsequence) |
 | [2390-removing-stars-from-a-string](https://github.com/gurungsujall/pep-coding-daily/tree/master/2390-removing-stars-from-a-string) |
@@ -150,6 +151,7 @@ My daily C++ coding practice
 | ------- |
 | [0053-maximum-subarray](https://github.com/gurungsujall/pep-coding-daily/tree/master/0053-maximum-subarray) |
 | [0494-target-sum](https://github.com/gurungsujall/pep-coding-daily/tree/master/0494-target-sum) |
+| [0516-longest-palindromic-subsequence](https://github.com/gurungsujall/pep-coding-daily/tree/master/0516-longest-palindromic-subsequence) |
 | [1143-longest-common-subsequence](https://github.com/gurungsujall/pep-coding-daily/tree/master/1143-longest-common-subsequence) |
 ## Sorting
 |  |
