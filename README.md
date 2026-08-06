@@ -124,6 +124,7 @@ My daily C++ coding practice
 | [0242-valid-anagram](https://github.com/gurungsujall/pep-coding-daily/tree/master/0242-valid-anagram) |
 | [0516-longest-palindromic-subsequence](https://github.com/gurungsujall/pep-coding-daily/tree/master/0516-longest-palindromic-subsequence) |
 | [0572-subtree-of-another-tree](https://github.com/gurungsujall/pep-coding-daily/tree/master/0572-subtree-of-another-tree) |
+| [0583-delete-operation-for-two-strings](https://github.com/gurungsujall/pep-coding-daily/tree/master/0583-delete-operation-for-two-strings) |
 | [1143-longest-common-subsequence](https://github.com/gurungsujall/pep-coding-daily/tree/master/1143-longest-common-subsequence) |
 | [2390-removing-stars-from-a-string](https://github.com/gurungsujall/pep-coding-daily/tree/master/2390-removing-stars-from-a-string) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/gurungsujall/pep-coding-daily/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
@@ -152,6 +153,7 @@ My daily C++ coding practice
 | [0053-maximum-subarray](https://github.com/gurungsujall/pep-coding-daily/tree/master/0053-maximum-subarray) |
 | [0494-target-sum](https://github.com/gurungsujall/pep-coding-daily/tree/master/0494-target-sum) |
 | [0516-longest-palindromic-subsequence](https://github.com/gurungsujall/pep-coding-daily/tree/master/0516-longest-palindromic-subsequence) |
+| [0583-delete-operation-for-two-strings](https://github.com/gurungsujall/pep-coding-daily/tree/master/0583-delete-operation-for-two-strings) |
 | [1143-longest-common-subsequence](https://github.com/gurungsujall/pep-coding-daily/tree/master/1143-longest-common-subsequence) |
 ## Sorting
 |  |
@@ -250,5 +252,6 @@ My daily C++ coding practice
 ## Longest Common Subsequence
 |  |
 | ------- |
+| [0583-delete-operation-for-two-strings](https://github.com/gurungsujall/pep-coding-daily/tree/master/0583-delete-operation-for-two-strings) |
 | [1143-longest-common-subsequence](https://github.com/gurungsujall/pep-coding-daily/tree/master/1143-longest-common-subsequence) |
 <!---LeetCode Topics End-->
