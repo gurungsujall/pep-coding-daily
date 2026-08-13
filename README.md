@@ -256,4 +256,12 @@ My daily C++ coding practice
 | ------- |
 | [0583-delete-operation-for-two-strings](https://github.com/gurungsujall/pep-coding-daily/tree/master/0583-delete-operation-for-two-strings) |
 | [1143-longest-common-subsequence](https://github.com/gurungsujall/pep-coding-daily/tree/master/1143-longest-common-subsequence) |
+## Quicksort
+|  |
+| ------- |
+| [0075-sort-colors](https://github.com/gurungsujall/pep-coding-daily/tree/master/0075-sort-colors) |
+## Bubble Sort
+|  |
+| ------- |
+| [0075-sort-colors](https://github.com/gurungsujall/pep-coding-daily/tree/master/0075-sort-colors) |
 <!---LeetCode Topics End-->
