@@ -199,6 +199,7 @@ My daily C++ coding practice
 ## Math
 |  |
 | ------- |
+| [0172-factorial-trailing-zeroes](https://github.com/gurungsujall/pep-coding-daily/tree/master/0172-factorial-trailing-zeroes) |
 | [0204-count-primes](https://github.com/gurungsujall/pep-coding-daily/tree/master/0204-count-primes) |
 | [0268-missing-number](https://github.com/gurungsujall/pep-coding-daily/tree/master/0268-missing-number) |
 | [0628-maximum-product-of-three-numbers](https://github.com/gurungsujall/pep-coding-daily/tree/master/0628-maximum-product-of-three-numbers) |
