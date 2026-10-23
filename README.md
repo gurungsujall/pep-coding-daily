@@ -27,6 +27,7 @@ My daily C++ coding practice
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/gurungsujall/pep-coding-daily/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
 | [0268-missing-number](https://github.com/gurungsujall/pep-coding-daily/tree/master/0268-missing-number) |
 | [0700-search-in-a-binary-search-tree](https://github.com/gurungsujall/pep-coding-daily/tree/master/0700-search-in-a-binary-search-tree) |
+| [0875-koko-eating-bananas](https://github.com/gurungsujall/pep-coding-daily/tree/master/0875-koko-eating-bananas) |
 ## Binary Tree
 |  |
 | ------- |
@@ -79,6 +80,7 @@ My daily C++ coding practice
 | [0628-maximum-product-of-three-numbers](https://github.com/gurungsujall/pep-coding-daily/tree/master/0628-maximum-product-of-three-numbers) |
 | [0695-max-area-of-island](https://github.com/gurungsujall/pep-coding-daily/tree/master/0695-max-area-of-island) |
 | [0867-transpose-matrix](https://github.com/gurungsujall/pep-coding-daily/tree/master/0867-transpose-matrix) |
+| [0875-koko-eating-bananas](https://github.com/gurungsujall/pep-coding-daily/tree/master/0875-koko-eating-bananas) |
 | [0881-boats-to-save-people](https://github.com/gurungsujall/pep-coding-daily/tree/master/0881-boats-to-save-people) |
 | [1046-last-stone-weight](https://github.com/gurungsujall/pep-coding-daily/tree/master/1046-last-stone-weight) |
 | [1394-find-lucky-integer-in-an-array](https://github.com/gurungsujall/pep-coding-daily/tree/master/1394-find-lucky-integer-in-an-array) |
